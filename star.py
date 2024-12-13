@@ -1,6 +1,6 @@
 import turtle
 
-turtle.screen().bgcolor('aqua')
+turtle.screen().bgcolor('Aqua')
 b=turtle.Trutle()
 
 b.forward(100)
